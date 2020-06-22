@@ -3,7 +3,7 @@
 
 # Reading Habits Project
 
-> TR: Bu proje, benim kitap okurken defterime kaydettiğim çeşitli verileri makine öğrenmesi ile işleyerek cevabını merak ettiğim sorular hakkında bilgisayardan cevap almak amaçlıdır.
+> TR: Bu proje, benim kitap okurken defterime kaydettiğim çeşitli verileri makine öğrenmesi ile işleyerek cevabını merak ettiğim sorular hakkında bilgisayardan veriye dayalı cevap almak amaçlıdır.
 
 > EN: This project is based on the datas which i've recorded my notebook while i was reading book. The purpose is processing datas with machine learning and find some answers to my questions. 
 
